@@ -1,5 +1,5 @@
 ---
-# 🚗 Sistema de Carros
+# Sistema de Carros
 
 ## Sobre o Projeto
 
