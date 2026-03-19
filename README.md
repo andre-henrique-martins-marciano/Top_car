@@ -1,7 +1,7 @@
 ---
-# 🚗 Sistema de Cadastro e Consulta de Carros
+# 🚗 Sistema de Carros
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto é um sistema desenvolvido para gerenciar informações de carros, permitindo ao usuário **selecionar um veículo e informar seu valor**.
 
@@ -9,25 +9,24 @@ A aplicação simula um pequeno sistema de consulta/cadastro, ideal para pratica
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-* Java ☕ *(ou C / Python — ajuste conforme sua linguagem)*
+* Java
 * Programação Orientada a Objetos (POO)
 * Entrada de dados via terminal
 
 ---
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
-* 🚘 Seleção de carros disponíveis
-* 💰 Inserção do valor do carro
-* 📋 Exibição das informações do veículo
-* 🔁 Menu interativo
-* ❌ Validação básica de dados
+* Cadastrar carro
+* Visualizar informações
+* Editar carro
+* Deletar carro
 
 ---
 
-## 🧠 Como Funciona
+## Como Funciona
 
 O sistema apresenta um menu onde o usuário pode escolher um carro dentre opções disponíveis.
 
@@ -44,29 +43,29 @@ A lógica pode ser organizada com:
 
 ---
 
-## 🖼️ Demonstração do Sistema
+## Demonstração do Sistema
 
-> 📌 Crie uma pasta `images` e adicione prints do sistema
+> Crie uma pasta `images` e adicione prints do sistema
 
-### 📋 Menu de Seleção
+### Menu de Seleção
 
 ```md id="k7q2pd"
 ![Menu](images/menu.png)
 ```
 
-### 🚘 Escolha do Carro
+### Escolha do Carro
 
 ```md id="y9v2lm"
 ![Escolha do Carro](images/escolha.png)
 ```
 
-### 💰 Entrada de Valor
+### Entrada de Valor
 
 ```md id="r4x1be"
 ![Valor do Carro](images/valor.png)
 ```
 
-### 📄 Resultado Final
+### Resultado Final
 
 ```md id="z8t6gc"
 ![Resultado](images/resultado.png)
@@ -74,7 +73,7 @@ A lógica pode ser organizada com:
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Clone o repositório
 
@@ -102,31 +101,25 @@ java Main
 
 ---
 
-## 📈 Melhorias Futuras
+## Melhorias Futuras
 
-* Cadastro de múltiplos carros 📚
-* Persistência de dados (arquivo ou banco de dados) 💾
-* Interface gráfica (JavaFX ou Web) 🖥️
-* Filtro por faixa de preço 🔎
+* Cadastro de múltiplos carros 
+* Persistência de dados (arquivo ou banco de dados)
+* Interface gráfica (JavaFX ou Web)
+* Filtro por faixa de preço
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **André Henrique Martins Marciano**
-📍 São João del-Rei – MG
+
 🔗 LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.linkedin.com/in/andre-h-martins-marciano/)
-💻 GitHub: [https://github.com/andre-henrique-martins-marciano](https://github.com/andre-henrique-martins-marciano)
 
 ---
 
-## 📄 Licença
+## Licença
 
 MIT License
 
 ---
-
-Se quiser, posso:
-
-* deixar esse projeto com **cara de sistema real (tipo concessionária)**
-* ou melhorar para **nível portfólio forte (com CRUD completo e banco de dados)** 🚀
