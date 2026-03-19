@@ -1,8 +1,4 @@
-
-Aqui está um **README.md profissional e bem estruturado** para seu sistema de carros 👇
-
 ---
-
 # 🚗 Sistema de Cadastro e Consulta de Carros
 
 ## 📌 Sobre o Projeto
